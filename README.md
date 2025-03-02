@@ -1,5 +1,4 @@
 # imgline_editor
-#### Video Demo:  <https://www.youtube.com/watch?v=84V9ymQ26YY>
 #### Description:
 imgline_editor was built to provide a simple image editor that can be used directly from the terminal.
 
